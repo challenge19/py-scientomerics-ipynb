@@ -1,1 +1,1 @@
-# py-scientomerics-ipynb
+# py-scientometrics-ipynb
